@@ -73,6 +73,7 @@ header {
   align-items: center; 
   object-fit: cover;
   margin-bottom: 20px;
+ 
 }
 
 footer {
@@ -88,6 +89,7 @@ footer {
   width: 400px;
   text-align: center;
   position: relative;
+  flex-grow: 2;
  }
 
  .img__description_inst{
